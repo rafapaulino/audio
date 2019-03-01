@@ -1,7 +1,7 @@
 {
   "name": "rafa-player-audio",
-  "homepage": "https://github.com/rafapaulino/player-audio",
-  "description": "Barra de aviso com o Bootstrap 4",
+  "homepage": "https://github.com/rafapaulino/audio",
+  "description": "Player de áudio com os botões de compartilhamento nas redes sociais",
   "main": "",
   "license": "MIT",
   "keywords": [
